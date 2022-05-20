@@ -47,7 +47,7 @@ const cardArray = [
         name: 'pizza',
         img: 'images/pizza.png'
     }
-] //the array of our cards with images
+] //the array of our cards with images duplicated.
 
 cardArray.sort(() => 0.5 - Math.random()); //Randomly sorts the array of cards
 
